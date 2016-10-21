@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyCounter</string>
+    <drawable name="clr_normal">#FFFFFF</drawable>
+    <drawable name="clr_pressed">#BDBDBD</drawable>
+    <drawable name="equ_normal">#FF8247</drawable>
+    <drawable name="equ_pressed">#FF6247</drawable>
+</resources>
